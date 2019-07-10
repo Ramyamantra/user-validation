@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usercode.git/static/css/main.611cb596.chunk.css",
+    "main.js": "/usercode.git/static/js/main.2d6f1210.chunk.js",
+    "main.js.map": "/usercode.git/static/js/main.2d6f1210.chunk.js.map",
+    "runtime~main.js": "/usercode.git/static/js/runtime~main.4195e221.js",
+    "runtime~main.js.map": "/usercode.git/static/js/runtime~main.4195e221.js.map",
+    "static/js/2.0501cc17.chunk.js": "/usercode.git/static/js/2.0501cc17.chunk.js",
+    "static/js/2.0501cc17.chunk.js.map": "/usercode.git/static/js/2.0501cc17.chunk.js.map",
+    "index.html": "/usercode.git/index.html",
+    "precache-manifest.a9006255348abfa6384fb22179edab58.js": "/usercode.git/precache-manifest.a9006255348abfa6384fb22179edab58.js",
+    "service-worker.js": "/usercode.git/service-worker.js",
+    "static/css/main.611cb596.chunk.css.map": "/usercode.git/static/css/main.611cb596.chunk.css.map"
+  }
+}
