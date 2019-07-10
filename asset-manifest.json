@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/usercode/static/css/main.611cb596.chunk.css",
-    "main.js": "/usercode/static/js/main.b90a4278.chunk.js",
-    "main.js.map": "/usercode/static/js/main.b90a4278.chunk.js.map",
-    "runtime~main.js": "/usercode/static/js/runtime~main.956ab41e.js",
-    "runtime~main.js.map": "/usercode/static/js/runtime~main.956ab41e.js.map",
-    "static/js/2.0501cc17.chunk.js": "/usercode/static/js/2.0501cc17.chunk.js",
-    "static/js/2.0501cc17.chunk.js.map": "/usercode/static/js/2.0501cc17.chunk.js.map",
-    "index.html": "/usercode/index.html",
-    "precache-manifest.8a2ff10b8b6aec8fe9047434d65bd27f.js": "/usercode/precache-manifest.8a2ff10b8b6aec8fe9047434d65bd27f.js",
-    "service-worker.js": "/usercode/service-worker.js",
-    "static/css/main.611cb596.chunk.css.map": "/usercode/static/css/main.611cb596.chunk.css.map"
+    "main.css": "/Ramyamantra/Ramyamantra.github.io/static/css/main.611cb596.chunk.css",
+    "main.js": "/Ramyamantra/Ramyamantra.github.io/static/js/main.8f810d47.chunk.js",
+    "main.js.map": "/Ramyamantra/Ramyamantra.github.io/static/js/main.8f810d47.chunk.js.map",
+    "runtime~main.js": "/Ramyamantra/Ramyamantra.github.io/static/js/runtime~main.4346b80c.js",
+    "runtime~main.js.map": "/Ramyamantra/Ramyamantra.github.io/static/js/runtime~main.4346b80c.js.map",
+    "static/js/2.0501cc17.chunk.js": "/Ramyamantra/Ramyamantra.github.io/static/js/2.0501cc17.chunk.js",
+    "static/js/2.0501cc17.chunk.js.map": "/Ramyamantra/Ramyamantra.github.io/static/js/2.0501cc17.chunk.js.map",
+    "index.html": "/Ramyamantra/Ramyamantra.github.io/index.html",
+    "precache-manifest.ab78dad5bee006fbb27983d3c74bbcfb.js": "/Ramyamantra/Ramyamantra.github.io/precache-manifest.ab78dad5bee006fbb27983d3c74bbcfb.js",
+    "service-worker.js": "/Ramyamantra/Ramyamantra.github.io/service-worker.js",
+    "static/css/main.611cb596.chunk.css.map": "/Ramyamantra/Ramyamantra.github.io/static/css/main.611cb596.chunk.css.map"
   }
 }
